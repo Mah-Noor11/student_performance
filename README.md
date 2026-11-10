@@ -1,4 +1,4 @@
-# student_performance
+# student_performance_prediction
 
 ## Project Overview
 This project uses Machine Learning to predict students' final academic scores based on their study habits and academic performance.
